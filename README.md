@@ -5,25 +5,25 @@
 [Kaggle Framingham Heart Study Dataset](https://www.kaggle.com/captainozlem/framingham-chd-preprocessed-data)
  
 ## Library
--Flask
--Flask-WTF
--gunicorn
--itsdangerous
--Jinja2
--joblib
--MarkupSafe
--numpy
--pandas
--python-dateutil
--python-dotenv
--pytz
--scikit-learn
--scipy
--six
--sklearn
--threadpoolctl
--Werkzeug
--WTForms
+- Flask
+- Flask-WTF
+- gunicorn
+- itsdangerous
+- Jinja2
+- joblib
+- MarkupSafe
+- numpy
+- pandas
+- python-dateutil
+- python-dotenv
+- pytz
+- scikit-learn
+- scipy
+- six
+- sklearn
+- threadpoolctl
+- Werkzeug
+- WTForms
 
 ## How To Run
 - Clone this repository
